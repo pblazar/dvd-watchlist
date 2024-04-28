@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://search.worldcat.org",
+      "@type": "DVD",
+      "id": "1",
+      "name": "Cruella",
+      "description": "In 1970s London amidst the"
+    },
+    {
+      "@context": "https://search.worldcat.org",
+      "@type": "DVD",
+      "id": "2",
+      "name": "Easy A",
+      "description": "After a little white lie"
+    },
+    {
+      "@context": "https://search.worldcat.org",
+      "@type": "DVD",
+      "id": "3",
+      "name": "Crazy stupid love",
+      "description": "Cals perfect life quickly unravels"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://search.worldcat.org",
+      "@type": "User",
+      "id": "1",
+      "name": "user 1",
+      "description": "a description of the user",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://search.worldcat.org",
+      "@type": "User",
+      "id": "2",
+      "name": "user 2",
+      "description": "a description of the user",
+      "itemId": "1"
+    }
+  ],
+  "collection": {
+    "@context": "https://search.worldcat.org",
+    "@type": "Collection",
+    "name": "DVD Watchlist",
+    "creator": "pblazar",
+    "about": "A list of DVDs",
+    "url": "https://ischoolblogs.sjsu.edu/info/pblblog/"
+  }
+}
